@@ -1,0 +1,1 @@
+java -jar ICECREAM-1.jar 'replace-it-with-your-path-to-folder-Icecream'
